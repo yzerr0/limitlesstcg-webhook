@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for limitlesstcg-webhook on 2025-12-19T05:52:47Z
+# fly.toml app configuration file generated for tcgpocketbot-limitlesstcg-webhook on 2025-12-19T05:56:09Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'limitlesstcg-webhook'
-primary_region = 'iad'
+app = 'tcgpocketbot-limitlesstcg-webhook'
+primary_region = 'lax'
 
 [build]
 
